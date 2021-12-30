@@ -1,7 +1,7 @@
 {
   "name": "react-lazily",
   "private": true,
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "React.lazy wrapper that works with allows you to destruct imported module, so it will work with non default exports",
   "main": "index.cjs.js",
   "module": "index.js",
@@ -47,13 +47,10 @@
   },
   "keywords": [
     "react",
-    "state",
-    "manager",
-    "management",
-    "recoil",
-    "store"
+    "lazy",
+    "default export"
   ],
-  "author": "Daishi Kato",
+  "author": "JLarky",
   "contributors": [],
   "license": "MIT",
   "bugs": {
