@@ -74,3 +74,4 @@ const App = () => {
 
 - https://github.com/facebook/react/issues/14603#issuecomment-726551598
 - https://stackoverflow.com/a/61879800/74167
+- https://www.npmjs.com/package/solidjs-lazily
