@@ -7,7 +7,6 @@ export lazily := <T extends {}, U extends keyof T>(
     get: (target, componentName: string | symbol) -> 
       if typeof componentName === 'string'
         lazy =>
-          loader(componentName).then((x) =>
-            default: (x[componentName as U] as any) as React.ComponentType<any>
+          loader(componentName).then((x) => (default: (x[componentName as U] as any) as React.ComponentType<any>)
          )
     })
