@@ -1,8 +1,8 @@
 # react-lazily
 
-[![minzip size](https://badgen.net/bundlephobia/minzip/react-lazily)](https://bundlephobia.com/result?p=react-lazily)
-[![install size](https://badgen.net/packagephobia/install/react-lazily)](https://packagephobia.com/result?p=react-lazily)
-[![dependency count](https://badgen.net/bundlephobia/dependency-count/react-lazily)](https://bundlephobia.com/result?p=react-lazily)
+[![minzip size](https://badgen.deno.dev/bundlephobia/minzip/react-lazily)](https://bundlephobia.com/result?p=react-lazily)
+[![install size](https://badgen.deno.dev/packagephobia/install/react-lazily)](https://packagephobia.com/result?p=react-lazily)
+[![dependency count](https://badgen.deno.dev/bundlephobia/dependency-count/react-lazily)](https://bundlephobia.com/result?p=react-lazily)
 
 react-lazily is a simple wrapper around `React.lazy` (or `loadable` from `@loadable/component`) that supports named imports.
 
